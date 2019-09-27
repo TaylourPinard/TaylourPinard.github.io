@@ -2789,7 +2789,8 @@ input, select, textarea {
 /* Contact */
 	#contact div {
 		width: 70%;
-		justify: center;
+		align-content: block;
+		margin-left: 6.5%;
 	}
 	
   #contact button {
